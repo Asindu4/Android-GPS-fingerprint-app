@@ -34,5 +34,7 @@ _Usage_
 2. Register and set up their fingerprint scanning.
 3. Clock in and out using the app, with GPS location tracking.
 4. Administrators access the dashboard to manage employees and view attendance reports.
+   
 _Contributions_
+
 Contributions are welcome! Please open a pull request with your proposed changes.
